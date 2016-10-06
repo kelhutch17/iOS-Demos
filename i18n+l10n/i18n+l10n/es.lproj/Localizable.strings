@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  i18n+l10n
+
+  Created by Hutchison, Kelly on 10/4/16.
+  Copyright © 2016 Hutchison, Kelly. All rights reserved.
+*/
+
+"FLYER_NAME_KEY" = "Sra. Kelly Hutchison";
+"NICE_FLIGHT_IMAGE_KEY" = "FlightImageEs";

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Bridging/Bridging.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MethodSwizzling/MethodSwizzling.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MathMonsters/MathMonsters.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:InstrumentsSwift-Starter/InstrumentsTutorial.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:i18n+l10n/i18n+l10n.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Kelly Hutchison"; ObjectID = "1Yg-Gn-2US"; */
+"1Yg-Gn-2US.text" = "Kelly Hutchison";
+
+/* Class = "UILabel"; text = "01/19/2023"; ObjectID = "4ju-Xb-BmF"; */
+"4ju-Xb-BmF.text" = "01/19/2023";
+
+/* Class = "UILabel"; text = "Expiration Date:"; ObjectID = "ErR-Vz-lY5"; */
+"ErR-Vz-lY5.text" = "Fecha de caducidad:";
+
+/* Class = "UILabel"; text = "$18,925.00"; ObjectID = "Qmu-3R-aYk"; */
+"Qmu-3R-aYk.text" = "$18,925.00";
+
+/* Class = "UILabel"; text = "Preferred Airport:"; ObjectID = "Rr7-l5-99F"; */
+"Rr7-l5-99F.text" = "Aeropuerto Recomendado:";
+
+/* Class = "UILabel"; text = "Frequent Flyer Program"; ObjectID = "S4o-UK-e2H"; */
+"S4o-UK-e2H.text" = "Programa de Viajero Frecuente";
+
+/* Class = "UILabel"; text = "Philadelphia International Airport"; ObjectID = "YPN-GB-swu"; */
+"YPN-GB-swu.text" = "El Aeropuerto Internacional de Filadelfia";
+
+/* Class = "UILabel"; text = "Dollar Value:"; ObjectID = "Yah-9C-x3N"; */
+"Yah-9C-x3N.text" = "Valor de dólares:";
+
+/* Class = "UILabel"; text = "1,000,000"; ObjectID = "Zif-di-3Zj"; */
+"Zif-di-3Zj.text" = "1,000,000";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "eI6-pm-hSn"; */
+"eI6-pm-hSn.text" = "Nombre:";
+
+/* Class = "UILabel"; text = "Number of Miles:"; ObjectID = "pHM-KO-2fV"; */
+"pHM-KO-2fV.text" = "Número de millas:";
