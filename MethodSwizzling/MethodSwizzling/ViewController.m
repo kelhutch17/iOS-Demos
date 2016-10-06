@@ -18,7 +18,7 @@
     [super viewDidLoad];
     
     UIImage *temp = [UIImage imageNamed:@"flight"];
-    //UIImage *temp = [UIImage imageNamed:@"Kelly"];
+    UIImage *temp2 = [UIImage imageNamed:@"Kelly"];
 }
 
 @end
